@@ -11,3 +11,8 @@ def first_element(books)
   books = ["Welcome to New York", "Harry Potter","Lair of Dreams"]
   books.shift
 end
+
+def third_element(numbers)
+  numbers = [ 0, 1 , 2 , 3, 4 ]
+  number[3]
+end
