@@ -17,6 +17,6 @@ def third_element(numbers)
   numbers[2]
 end
 
-def last_element
-  array[-1]
+def last_element(last)
+  last[-1]
 end
