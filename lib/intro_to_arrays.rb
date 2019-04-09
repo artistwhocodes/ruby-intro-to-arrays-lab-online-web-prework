@@ -9,7 +9,7 @@ end
 
 def first_element(books)
   # books = ["Welcome to New York", "Harry Potter","Lair of Dreams"]
-  books.shift
+  books.[1]
 end
 
 def third_element(numbers)
@@ -19,4 +19,8 @@ end
 
 def last_element(last)
   last[-1]
+end
+
+def first_element_with_array_methods(first)
+  first.shift
 end
