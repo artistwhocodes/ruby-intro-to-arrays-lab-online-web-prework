@@ -16,7 +16,7 @@ def third_element(numbers)
   # numbers = [ "zero", "one" ,"two" , "Style", "four" ]
   numbers[2]
 end
-#
-# def last_element
-#   array[-1]
-# end
+
+def last_element
+  array[-1]
+end
