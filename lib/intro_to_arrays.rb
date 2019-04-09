@@ -14,7 +14,7 @@ end
 
 def third_element(numbers)
   # numbers = [ "zero", "one" ,"two" , "Style", "four" ]
-  numbers[3]
+  numbers[2]
 end
 #
 # def last_element
