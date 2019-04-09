@@ -8,6 +8,6 @@ def array_with_two_elements
 end
 
 def first_element(books)
-  books = ["Harry Potter","Lair of Dreams"]
+  books = ["Welcome to New York", "Harry Potter","Lair of Dreams"]
   books.shift
 end
