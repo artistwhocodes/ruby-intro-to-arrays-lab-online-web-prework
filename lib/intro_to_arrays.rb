@@ -9,7 +9,7 @@ end
 
 def first_element(books)
   # books = ["Welcome to New York", "Harry Potter","Lair of Dreams"]
-  books.[1]
+  books[1]
 end
 
 def third_element(numbers)
