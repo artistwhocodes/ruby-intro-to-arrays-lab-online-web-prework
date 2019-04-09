@@ -6,3 +6,8 @@ end
 def array_with_two_elements
   couple = ["Pam", "Chris"]
 end
+
+def first_element
+  books = ["Harry Potter","Lair of Dreams"]
+  books.shift
+end
