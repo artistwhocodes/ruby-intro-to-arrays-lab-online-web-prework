@@ -13,6 +13,6 @@ def first_element(books)
 end
 
 def third_element(numbers)
-  numbers = [ "zero", "one" ,"two" , "style", "four" ]
+  numbers = [ "zero", "one" ,"two" , "Style", "four" ]
   numbers[3]
 end
