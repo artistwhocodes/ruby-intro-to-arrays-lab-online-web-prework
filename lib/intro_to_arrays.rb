@@ -24,3 +24,7 @@ end
 def first_element_with_array_methods(first)
   first.shift
 end
+
+def last_element_with_array_methods(last)
+  last.unshift
+end
